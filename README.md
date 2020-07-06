@@ -4,12 +4,12 @@ This is a small library that contains 4 types of alerts so you can use them in J
 **Version 1.0.0**
 ---
 
-## Contributors
+### Contributors
 - Yonier Asprilla <samirzapata11@gmail.com>
 
 ---
 
-## Details
+### Details
 
 In the following route you can find the library ready for implementation and use: alerts / alerts.
 The way to instantiate each of the alerts is as follows: `new alertas.AlertSuccess(this, true).setVisible(true);`
@@ -19,5 +19,5 @@ It should be noted that a package of images was used to design these alerts, whi
 
 ![success](https://user-images.githubusercontent.com/36949423/86566251-f64f1480-bf2e-11ea-862d-94afe7e9a264.png)    ![error](https://github.com/samirZapata/Customize-Alerts/blob/master/alerts/src/img/error.png)      ![Warning](https://github.com/samirZapata/Customize-Alerts/blob/master/alerts/src/img/warning.png)  ![EMP](https://github.com/samirZapata/Customize-Alerts/blob/master/alerts/src/img/emp.png)
 
-## Developer 
+### Developer 
 - Yonier Asprilla
